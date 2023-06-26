@@ -189,6 +189,14 @@ A tabela a seguir contém a relação com os Requisitos Não Funcionais identifi
 
 [Protótipo criado no FIGMA em 2022 por estudantes](https://www.figma.com/file/6wzQARlwJn5j9aGFqWCGwk/Untitled?type=design&node-id=0-1&t=Em1dX71dEVCvL3ab-0)
 
+* ![image](https://github.com/lilaDP/projeto-fundamentos/assets/127409405/92bcf24b-d5e2-4df2-af34-2cae3920c3b4)
+
+* ![image](https://github.com/lilaDP/projeto-fundamentos/assets/127409405/efc5dd6d-bac7-4458-a420-04637cb5dbce)
+
+* ![image](https://github.com/lilaDP/projeto-fundamentos/assets/127409405/754e63b6-0ac2-4dfe-a5b1-eecb0855bbb7)
+
+
+
 
 [ [INÍCIO](#fibonacci-management-system) 
 ## Descrição / Especificação dos Casos de Uso
