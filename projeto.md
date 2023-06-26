@@ -1,13 +1,13 @@
 <img src='/img/logo.png' alt='logo da empresa' width='50px' heidth='50px'/>
 
-# *FIBONACCI MANAGEMENT SYSTEM*
+# *BreakGame*
 
 # PROJETO DE SOFTWARE
 
 ## *Stakeholders*
 |NOME|CARGO|E-MAIL|
-|:---|:---|:---|
-|Wagner da Silva Ferreira Filho|Gerente de Projeto|wagner.ferreira@ifro.edu.br|
+|Dalila Elena Pelegrinello |Gerente de Projeto | dalilapelegrinello@outlook.com|
+|Emilly Lemes de Carvalho |Disgner| emilly19vha@gmail.com|
 
 # Sumário
 
@@ -41,44 +41,41 @@
 # RESUMO DO PROJETO
 | ITEM | DESCRIÇÃO|
 |:---|:---|
-| NOME DO PROJETO | Fibonacci Management System |
-| GERENTE DO PROJETO | Wagner Ferreira |
-| PRINCIPAL OBJETIVO | Auxiliar o sistema de ensino através de ferramentas síncronas e assíncronas que serão usadas por funcionários e alunos da instituição de ensino. |
-| BENEFÍCIOS ESPERADOS |* Melhor acompanhamento pedagógico;<br/>* Redução da evasão escolar;<br/>* Aumento do número de matrículas;<br/>* Redução da inadimplência escolar;<br/>* Automatização dos processos financeiross|
+| NOME DO PROJETO | BreakGame |
+| GERENTE DO PROJETO | Dalila Pelegrinello |
+| PRINCIPAL OBJETIVO | Emular jogos de diferentes plataformas em computadores. |
+| BENEFÍCIOS ESPERADOS |* Configuração pernalizavel;<br/>* Facilidade de uso;<br/>* 
 | INÍCIO E TÉRMINO PREVISTOS | 14/03/2023 - 07/12/2023 |
 
-[ [INÍCIO](#fibonacci-management-system) ]
+[ [INÍCIO](#BreakGame) ]
 
 # INTRODUÇÃO
 
 ## PROPÓSITO DESTE DOCUMENTO
 
-Este documento destina-se aos clientes, engenheiros, gerentes e demais stakeholders deste projeto. O propósito deste documento é apresentar a descrição dos serviços e funções que o sistema **_Fibonacci Management System_** deve prover, bem como as suas restrições de operação e propriedades gerais, a fim de ilustrar uma descrição detalhada do sistema para um auxílio durante as etapas de análise, projeto e testes. O documento especifica todos os requisitos funcionais e não funcionais do sistema e contém a prototipagem, além de diagramas UML que foram construídos levando-se em conta as funcionalidades identificadas durante a fase de concepção do sistema.
+Este documento destina-se aos clientes, engenheiros, gerentes e demais stakeholders deste projeto. O propósito deste documento é apresentar a descrição dos serviços e funções que o sistema **_BreakGame** deve prover, bem como as suas restrições de operação e propriedades gerais, a fim de ilustrar uma descrição detalhada do sistema para um auxílio durante as etapas de análise, projeto e testes. O documento especifica todos os requisitos funcionais e não funcionais do sistema e contém a prototipagem, além de diagramas UML que foram construídos levando-se em conta as funcionalidades identificadas durante a fase de concepção do sistema.
 
 ## CONCEPÇÃO DO SISTEMA
 
-Foram usados três métodos para que pudessem ser obtidos os requisitos do sistema:
-* Entrevista:
-  * Discussões individuais de um representante da equipe com José de Arimatéia, diretor da Escola Fibonacci.
-* Consulta com especialista:
-  * Gustavo, coordenador de pós-graduação do curso de Ciências Contábeis da Universidade Federal orientou na concepção do sistema devido sua experiência em trabalhar em cursos semipresenciais e ser um dos consultores da empresa;
-  * Alex Sandro Gomes, professor do Centro de Informática da Universidade Federal orientou na análise de requisitos devido a sua grande experiência em desenvolvimento de software educativo;
-  * Silvio Zanchetti, coordenador do curso on-line ITUC/AL, foi outro entrevistado;
-  * Manasses dos Santos Silva, responsável pelo treinamento dos funcionários do laboratório HEXAL BRASIL.
-* Prototipação:
-  * Representações das interfaces gráficas com diferentes níveis de fidelidade, aprovadas pela empresa contratante.
+Foram usados três tipos de métodos para que pudessem ser obtidos os requisitos do sistema
 
+°Entrevista:
+. Foram feitas entrevistas com clientes, e possiveis usuários para entender o que necessário para um bom sistema.
 
+°Consulta com especialistas:
+Wagner da Silva, professor de Fundamentos em Análise de Sistemas no Instituto Federal orientou na concepção do sistema devido sua experiência em trabalhar em sistemas e ser um dos consultores da empresa;
+
+° Prtotipação:
+Apresentações de interfaces graficas feitas apartir do figma.
 
 ## CONVENÇÕES, TERMOS E ABREVIAÇÕES
 
 Para evitar interpretações incorretas deste documento, algumas convenções e termos específicos são descritos a seguir:
 
-* EaD: Eaducação a Distância
-* Moodle: Ambiente Virtual que hospedará os cursos oferecidos
-* Exame Final: Avaliação destinada aos estudantes que obtiveram média anual inferior à 60 pontos
+* Emulador: sistema de computação equipado para emular outro sistema.
 
-[ [INÍCIO](#fibonacci-management-system) ]
+
+[ [INÍCIO](#BreakGame) ]
 
 # DESCRIÇÃO GERAL
 
@@ -86,70 +83,53 @@ Para evitar interpretações incorretas deste documento, algumas convenções e 
 
 ### NO ESCOPO
 
-O projeto consiste na construção de uma ferramenta para gerenciamento de aprendizado *(Learning Management System - LMS)*, que possa atender os requisitos da Escola Fibonacci, no fator de educação à distância. O projeto visa auxiliar o sistema de ensino através de ferramentas síncronas e assíncronas que serão usadas por funcionários e alunos da instituição de ensino.
-O escopo do **produto** pode ser consultado nos [requisitos do software](#requisitos-do-software)
+BreakGame é um emulador de jogos que visa possuir uma coletâenas de jogos de difenrentes sistemas em apenas um sistema, tendo jogos de sistemas Android e Ios, tendo uma melhor experiencia para jogar, com configurções manipulaveis pelas usuarios, deixando assim a experiencia melhorada, havendo tipos de cofigurações diferentes para cada tipo de jogo. Atualizações facil de se manterem, não sendo necessario muito conhecimento para se conseguir usar e deixar atualizado.
 
 ### FORA DO ESCOPO
 
 Não fazem parte do escopo do projeto:
-* Instalação e configuração do ambiente tecnológico do cliente;
-* Treinamento de instalação, configuração, administração e  utilização do sistema;
-* Integração com quaisquer sistemas ou base de dados do ambiente tecnológico do cliente.
+* Modificações de jogos
+* Mods para jogos 
+* jogos com algum tipo de burlagem
 
 ## Usuários do sistema
 |USUÁRIO|DESCRIÇÃO|
-|:---|:---|
-|**Usuário Padrão:**|Realizam as tarefas comuns a todos os usuários, tal como: logar e enviar mensagens. Todos demais usuários estendem as funcionalidades do UsuárioPadrão|
-|**Administrador:**|Responsáveis pelo gerenciamento das entidades pertinentes à instituição e pela alocação de outros administradores|
-|**Coordenador:**|Responsáveis pela aprovação de disciplinas, turmas e matrículas realizadas pela secretaria do curso, além de ser responsável pela alocação da secretaria|
-|**Secretaria:**|Responsáveis pelo cadastramento de disciplinas e turmas, pela alocação de professores e monitores de um curso e matrículas dos alunos|
-|**Professor:**|Responsáveis pela criação do programa da disciplina através de ferramentas de planejamento e criação de atividades|
-|**Aluno:**|Seguem o programa da disciplina criada pelo professor, tendo como apoio ferramentas de comunicação, tal como: chat e fórum|
+ Não será necessario se criar ou gerar uma conta, apenas baixar e usar.
 
 ## Abrangência e sistemas similares
 
 ### Abrangência:
 
-O sistema irá conter ferramentas para construção de um plano de aulas que esteja de acordo com os objetivos e metodologia de uma turma ministrada pelo professor. O professor através de ferramentas (como Chat, Fórum, Base de Documentos) irá montar o programa desta disciplina que deverá ser seguido pelo aluno usuário do sistema. O professor terá a liberdade de criar atividades (textos e questionários) e determinar prazos a serem cumpridos pelos alunos. Serão armazenadas as resoluções dos alunos para serem corrigidas pelo professor posteriormente, gerando estatísticas do desempenho de cada aluno e da turma. O sistema também irá prover o gerenciamento das entidades que compõem a instituição e os usuários do sistema.
-
-Dentre as ferramentas de comunicação do sistema existirão as assíncronas, como Chat, onde poderão ser feitas reuniões, discussões, explicações conjuntas ou qualquer outra atividade de comunicação. O Fórum consiste na ferramenta síncrona usada para os mesmos fins do Chat.
+O sistema sera uma plataforma onde apresentara jogos que diferentes plataformas se podendo escolher entre elas. A jogabilidade dos jogos não sera mexida dentro mas haverá configurações para auxiliar em uma melhor experiencia. 
 
 Das ferramentas de planejamento podemos citar:
+Diferente tipos de Configurações 
 
-* **Avaliações e Exercícios:** serão criadas tarefas a serem entregues pelos alunos nos determinados prazos;
-
-* **Anúncios:** espaço para criação de avisos e informes aos alunos de uma determinada turma;
-
-* **Manipulação de Arquivos:** haverá um diretório onde podem ser acumulados arquivos de diversos tipos pelos usuários;
-
-* **Planejamento de Aulas:** planejamento de uma aula estruturada com leituras e exercícios.
+* **Configuraçao de controles:** Sera possivel personalizar controle da forma desejavel;
+* 
+* **Cadastrar Controle:** Sera possivel cadastrar um controle de console;
+* 
+* **Configuraçoes do jogos:** Podera ser comnfigurado o jogo para melhor experiencia;
 
 ### Sistemas similares:
 
-No cenário atual da universidade se encontra um sistema que é responsável por realizar tal tarefa, denominado Virtus, porém o sistema não atende todas as necessidades, não sendo considerado satisfatório pela maioria dos usuários.
+NO cenario atual de plataforma de emuladores. existe inumetos sites que apresentam mesma proposta, entretanto, não há muitos com a proposta de criar sua porpria configuração.
 
-No cenário nacional encontram-se três sistemas que se destacam:
+No cenario de emuladores emcontranse alguns que se destacam.
 
-**AulaNet:** é um ambiente de software baseado na Web, desenvolvido no Laboratório de Engenharia de Software - LES - do Departamento de Informática da PUC-Rio, para administração, criação, manutenção e participação em cursos à distância.
-WebAula: é um produto formado por soluções integradas de gerenciamento de aprendizagem, conhecimento e conteúdos on-line, resultado de uma joint venture entre as empresas Zargon e Poliedro.
-
-**TelEduc:** é um ambiente para a criação, participação e administração de cursos na Web. Ele foi concebido tendo como alvo o processo de formação de professores para informática educativa, baseado na metodologia de formação contextualizada desenvolvida por pesquisadores do Nied (Núcleo de Informática Aplicada à Educação) da Unicamp.
-
-No cenário internacional os sistemas de maior porte são:
-
-**WebCT:** O WebCT é um programa que possibilita a criação de ambientes educacionais na Internet, desenvolvido pela University of British Columbia - Canadá. Ele permite a colocação do conteúdo de um curso na Internet pelo professor e, em seguida, o cadastro os alunos que participarão daquele curso. O objetivo principal é possibilitar a interação entre tais sujeitos através de ferramentas de trabalho em grupo, tais como: fóruns de discussão, chat, palestras on-line, além de facilitar a comunicação professor-aluno, através da publicação de notas e gabaritos de avaliações.
-
-**Blackboard:** é um sistema de autoria extremamente amigável, desenvolvido para ser utilizado por educadores e profissionais interessados em aplicar as novas tecnologias interativas da rede na educação, contribuindo para a metodologia de ensino presencial e potencializando o processo de ensino e aprendizagem a distância.
+* **BlueStacks:** uma plataforma na qual emula tantos jogos como aplicativos de Android e Ios.
+  
+* **NoxPlayer:** uma paltaforma na qual emula e Otimiza jogos, compatibilidade com controle, capacidade de alterar o build. 
 
 ## Suposições e dependências
 O sistema necessita de um servidor web para sua hospedagem.
 
 Os usuários devem utilizar um computador com a seguinte configuração mínima:
 
-* Processador Dual Core 2GHz ou superior
-* 2Gb de memória RAM
-* 5Gb de armazenamento em disco
-* Para uso do sistema é preciso ter instalado o Java SE versão 8 e o MySql versão 8.0.28.
+*  Windows 7 e superior;
+*  4 GB de RAM (8GB recomendado);
+* 5Gb de armazenamento
+* Você deve ser um administrador em seu PC..
 
 # ESTUDO DE VIABILIDADE
 
@@ -167,12 +147,12 @@ Foi realizada uma análise de custo-benefício, e, mesmo com estimativas conserv
 Do ponto de vista organizacional, este projeto apresenta baixo risco. Os diretores e coordenadores da instituição demonstram forte interesse no projeto. Espera-se que os professores e alunos aprovem a implantação do sistema, visto que atualmente a escola não possui uma ferramenta específica para o controle das informações, o que está provocando enormes transtornos para a instituição.
 
 
-[ [INÍCIO](#fibonacci-management-system) ]
+[ [INÍCIO](#BreakGame) ]
 
 # Metodologia Adotada no Desenvolvimento
 
 
-[ [INÍCIO](#fibonacci-management-system) ]
+[ [INÍCIO](#BreakGame) ]
 
 # Requisitos do Software
 
@@ -184,36 +164,33 @@ A tabela a seguir contém a relação dos Requisitos Funcionais elicitados, com 
 
 | IDENTIFICADOR | NOME | DESCRIÇÃO |
 :---|:---|:---|
-|RF-001 |Nome do Requisito | Descreva aqui as informações sobre o requisito |
-|RF-002 | Nome do Requisito | Descreva aqui as informações sobre o segundo requisito |
-
+|RNF-001 |Disponibilidade |O sistema estara sempre disponivel quando for necessario|
+|RNF-002 |Manutenção |O sistema não havera muitas complicações para se atualizar|
+|RNF-003 | Usabilidade | O sistema sera facil de se usar e manter |
+|RNF-004 | Atuação |O sistema sera capaz de lidar com o número necessário de usuários sem qualquer degradação no desempenho.|
+|RNF-005 | Segurança |O sistema sera protegido contra acesso não autorizado. |
 
 ## Requisitos Não Funcionais
 A tabela a seguir contém a relação com os Requisitos Não Funcionais identificados, contendo identificador, nome, descrição e prioridade:
 
 | IDENTIFICADOR | NOME | DESCRIÇÃO |
 |:---|:---|:---|
-|RNF-001 |Nome do Requisito |Descreva aqui as informações sobre o requisito |
-|RNF-002 |Nome do Requisito |Descreva aqui as informações sobre o segundo requisito |
+|RNF-001 |Mostrar Infomações | O Sistema mostrara as informações necessarias para seu uso|
+|RNF-002 |Notas de Atualização |Apos atualizar, havera um pequeno texto infromando sobre tal atualição|
+|RNF-003 | Configurações | O sisterma tera configuraçoes que poderam interagir|
+|RNF-004 | Personalização| O sistema tera personalização de controles|
+|RNF-005 | Guia de soluções | Se houver algum problema que podera ser solucionado pelo usuario o guia irá mostrar. |
 
 
-[ [INÍCIO](#fibonacci-management-system) ]
+[ [INÍCIO](#BreakGame) ]
 
 
 # Prototipagem
 
-[Protótipo criado no FIGMA em 2022 por estudantes](https://www.figma.com/file/iNC7wyX9zP7Kmn3BhiCFGf/Fals6Hood-(Prot%C3%B3tipo-criado-por-estudantes-em-2022)?node-id=0%3A1&t=B16hgeZP3MSURCCa-1)
-
-![Imagem do Protótipo](/img/home.png)
-
-[ [INÍCIO](#fibonacci-management-system) ]
+[Protótipo criado no FIGMA em 2022 por estudantes](https://www.figma.com/file/6wzQARlwJn5j9aGFqWCGwk/Untitled?type=design&node-id=0-1&t=Em1dX71dEVCvL3ab-0)
 
 
-# Diagrama de Casos de Uso
-
-
-![Diagrama de Casos de Uso](/img/use_case_placas.png)
-
+[ [INÍCIO](#fibonacci-management-system) 
 ## Descrição / Especificação dos Casos de Uso
 
 ### UC-01 - Cadastrar Professor
