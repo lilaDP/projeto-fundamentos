@@ -6,8 +6,8 @@
 
 ## *Stakeholders*
 |NOME|CARGO|E-MAIL|
-|Dalila Elena Pelegrinello |Gerente de Projeto | dalilapelegrinello@outlook.com|
-|Emilly Lemes de Carvalho |Disgner| emilly19vha@gmail.com|
+* |Dalila Elena Pelegrinello |Gerente de Projeto | dalilapelegrinello@outlook.com|
+* |Emilly Lemes de Carvalho |Disgner| emilly19vha@gmail.com|
 
 # Sumário
 
