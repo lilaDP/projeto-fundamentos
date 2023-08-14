@@ -204,10 +204,21 @@ A tabela a seguir contém a relação com os Requisitos Não Funcionais identifi
 
 [ [INÍCIO](#fibonacci-management-system) 
 ## Descrição / Especificação dos Casos de Uso
-
-
-
-
+|UC-01 - Cadastrar Usuario|           
+|:---|
+|**Descrição/Objetivo:** Permite a inclusão de novos usuarios no Sistema|
+|**Atores: Administrador**|
+|**Pré-condições:** Não possui|
+|**Pós-condições:** Será apresentada uma mensagem confirmando a realização do cadastro|
+|**FLUXO PRINCIPAL / BÁSICO:**|
+|1. O usuário seleciona a opção cadastrar|
+|2. Os dados do usuario são inseridos|
+|3. O usuário clica em salvar|
+|4. É apresentada uma mensagem confirmando a realização do cadastro|
+|**FLUXOS ALTERNATIVOS / EXCESSÕES:** |
+|**A1: Campo obrigatório não preenchido** |
+|1. Uma mensagem será mostrada informando para o usuario que o e-mail invalido|
+|2. Uma mensagem será mostrada pedindo ao usuario para informa o e-mail novamente |
 
 
 ## Matriz de Rastreabilidade
