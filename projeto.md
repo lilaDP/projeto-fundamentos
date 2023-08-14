@@ -94,7 +94,7 @@ Não fazem parte do escopo do projeto:
 
 ## Usuários do sistema
 |USUÁRIO|DESCRIÇÃO|
- Não será necessario se criar ou gerar uma conta, apenas baixar e usar.
+ Não será obrigatorio criar uma conta apenas se achar necessario, com a criacao de conta recebera mais informações por e-mail, como jogos que serão lançados, e pré instalação
 
 ## Abrangência e sistemas similares
 
@@ -169,6 +169,9 @@ A tabela a seguir contém a relação dos Requisitos Funcionais elicitados, com 
 |RNF-003 | Usabilidade | O sistema sera facil de se usar e manter |
 |RNF-004 | Atuação |O sistema sera capaz de lidar com o número necessário de usuários sem qualquer degradação no desempenho.|
 |RNF-005 | Segurança |O sistema sera protegido contra acesso não autorizado. |
+|RNF-006 | cadastro | usuario casdatra uma conta se achar necessario. |
+
+
 
 ## Requisitos Não Funcionais
 A tabela a seguir contém a relação com os Requisitos Não Funcionais identificados, contendo identificador, nome, descrição e prioridade:
@@ -197,11 +200,13 @@ A tabela a seguir contém a relação com os Requisitos Não Funcionais identifi
 
 
 
+![image](https://github.com/lilaDP/projeto-fundamentos/assets/127409405/3e0aed42-5ca0-4c43-a3d9-0e00fffc346d)
 
 [ [INÍCIO](#fibonacci-management-system) 
 ## Descrição / Especificação dos Casos de Uso
 
-![image](https://github.com/lilaDP/projeto-fundamentos/assets/127409405/3e0aed42-5ca0-4c43-a3d9-0e00fffc346d)
+
+
 
 
 
