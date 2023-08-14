@@ -201,27 +201,8 @@ A tabela a seguir contém a relação com os Requisitos Não Funcionais identifi
 [ [INÍCIO](#fibonacci-management-system) 
 ## Descrição / Especificação dos Casos de Uso
 
-### UC-01 - Cadastrar Professor
+![image](https://github.com/lilaDP/projeto-fundamentos/assets/127409405/3e0aed42-5ca0-4c43-a3d9-0e00fffc346d)
 
-|UC-01 - Cadastrar Professor|           
-|:---|
-|**Descrição/Objetivo:** Permite a inclusão de novos professores no Sistema|
-|**Atores: Administrador**|
-|**Pré-condições:** O usuário precisa estar cadastrado e logado|
-|**Pós-condições:** Será apresentada uma mensagem confirmando a realização do cadastro|
-|**FLUXO PRINCIPAL / BÁSICO:**|
-|1. O usuário seleciona a opção cadastrar professor|
-|2. Os dados do professor são inseridos|
-|3. O usuário clica em salvar|
-|4. Um novo ID é gerado |
-|5. É apresentada uma mensagem confirmando a realização do cadastro|
-|**FLUXOS ALTERNATIVOS / EXCESSÕES:** |
-|**A1: Campo obrigatório não preenchido** |
-|1. Uma mensagem será apresentada para o usuário, informando que existe(m) campos obrigatórios que não foram preenchidos |
-|2. O cursor será posicionado no primeiro campo obrigatório que não foi preenchido |
-|**A2: Data de nascimento inválida** |
-|1. Uma mensagem será apresentada para o usuário, informando que a data informáda não é válida|
-|2. O cursor será posicionado para o campo data|
 
 
 ## Matriz de Rastreabilidade
