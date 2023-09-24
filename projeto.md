@@ -136,21 +136,24 @@ Os usuários devem utilizar um computador com a seguinte configuração mínima:
 Uma vez definidos a necessidade para o sistema e seus requisitos de negócio, é possível compreender melhor o projeto do sistema proposto para elaborar o estudo de viabilidade com os seguintes destaques:
 
 ## Viabilidade Técnica
-Os colaboradores de tal projeto possuem bastante experiência com aplicações que serão usadas no sistema, o sistema possui um base de programação não muito complicada, portanto os programadores estão familiarizados com tal linguagem  
+
+Um emulador para jogos de Android envolve desafios complexos, como emulação de arquitetura de ARM, GPU, suporte de APIs de Android, integração de controles e sensores. Otimização de desempenho e escalabilidade. Manter o emulador atualizado e compatível com versões recentes do Android, além de lidar com questões legais e concorrências, também são considerações cruciais.   
 
 ## Viabilidade Econômica
 
-Foi realizada uma análise de custo-benefício, e, mesmo com estimativas conservadoras do retorno sobre o investimento e dos benefícios totais, este projeto é viável economicamente. Após a implantação, espera-se uma melhoria na qualidade dos serviços prestados e aumento da capacidade de vagas da unidade escolar.
+Emulador para jogos de depende de diversos fatora, incluindo o custos de desenvolvimentos, modelo de receita, demanda de mercado, concorrências e custos operacionais. Para avaliá-la, é crucial analisar a relação entre receitas potenciais e despesas, considerando projeções financeiras realistas e estratégias para atrair e reter usuários 
+
 
 ## Viabilidade Organizacional
 
-Do ponto de vista organizacional, este projeto apresenta baixo risco. Os diretores e coordenadores da instituição demonstram forte interesse no projeto. Espera-se que os professores e alunos aprovem a implantação do sistema, visto que atualmente a escola não possui uma ferramenta específica para o controle das informações, o que está provocando enormes transtornos para a instituição.
-
+um emulador de Android para jogos envolve a avaliação da capacidade da equipe e da estrutura organizacional para desenvolver, manter e comercializar o emulador com sucesso. Isso inclui considerações sobre a competência técnica da equipe, os recursos disponíveis, a gestão de projetos e a coordenação interna.
 
 [ [INÍCIO](#BreakGame) ]
 
 # Metodologia Adotada no Desenvolvimento
+# METODOLOGIA ESPIRAL: 
 
+Usamos a metodologia espiral, pois esta metodologia visa entregar melhorias, com casa progressão passando pelas mesmas fases, também se concentra em obter feedback do cliente e poder acomodar mudanças nos requisitos. Sendo uma metodologia útil para projetos maiores.   
 
 [ [INÍCIO](#BreakGame) ]
 
