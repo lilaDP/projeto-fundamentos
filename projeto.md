@@ -235,6 +235,8 @@ A tabela a seguir contém a relação com os Requisitos Não Funcionais identifi
 [ [INÍCIO](#fibonacci-management-system) ]
 
 # Diagrama de Classes
+![image](https://github.com/lilaDP/projeto-fundamentos/assets/127409405/eb940c31-2a86-4791-95be-bf43117c26e4)
+
 
 [ [INÍCIO](#fibonacci-management-system) ]
 
