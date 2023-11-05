@@ -246,6 +246,8 @@ A tabela a seguir contém a relação com os Requisitos Não Funcionais identifi
 
 # Diagrama de Atividades
 
+![image](https://github.com/lilaDP/projeto-fundamentos/assets/127409405/dc81744d-bd3b-49c1-a0af-b0aae0331d18)
+
 
 # REFERÊNCIAS
 
