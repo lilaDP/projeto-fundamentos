@@ -242,6 +242,9 @@ A tabela a seguir contém a relação com os Requisitos Não Funcionais identifi
 
 # Diagrama de Sequências
 
+![image](https://github.com/lilaDP/projeto-fundamentos/assets/127409405/680ac612-6817-465a-88e7-9fa75e1eac80)
+
+
 [ [INÍCIO](#fibonacci-management-system) ]
 
 # Diagrama de Atividades
