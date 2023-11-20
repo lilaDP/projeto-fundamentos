@@ -244,7 +244,9 @@ A tabela a seguir contém a relação com os Requisitos Não Funcionais identifi
 
 ![Imagem do WhatsApp de 2023-11-13 à(s) 08 53 37_2a48cc7c](https://github.com/lilaDP/projeto-fundamentos/assets/127409405/fe90c472-8ccc-400d-900c-1e55d768047d)
 
-![image](https://github.com/lilaDP/projeto-fundamentos/assets/127409405/27d7731b-472c-4452-8d59-bd787c9258ba)
+
+![image](https://github.com/lilaDP/projeto-fundamentos/assets/127409405/a6aab585-5afd-4d33-8d94-497d60f0a70b)
+
 
 [ [INÍCIO](#fibonacci-management-system) ]
 
