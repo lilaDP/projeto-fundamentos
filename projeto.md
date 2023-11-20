@@ -248,6 +248,10 @@ A tabela a seguir contém a relação com os Requisitos Não Funcionais identifi
 ![image](https://github.com/lilaDP/projeto-fundamentos/assets/127409405/a6aab585-5afd-4d33-8d94-497d60f0a70b)
 
 
+![image](https://github.com/lilaDP/projeto-fundamentos/assets/127409405/a2fe7d39-8e5d-4e62-b822-6d760a187779)
+
+
+
 [ [INÍCIO](#fibonacci-management-system) ]
 
 # Diagrama de Atividades
