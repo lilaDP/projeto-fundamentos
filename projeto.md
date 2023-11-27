@@ -251,8 +251,7 @@ A tabela a seguir contém a relação com os Requisitos Não Funcionais identifi
 ![image](https://github.com/lilaDP/projeto-fundamentos/assets/127409405/700f1d73-6f7d-4734-82e7-31e5f273e29d)
 
 
-
-![image](https://github.com/lilaDP/projeto-fundamentos/assets/127409405/a2fe7d39-8e5d-4e62-b822-6d760a187779)
+![image](https://github.com/lilaDP/projeto-fundamentos/assets/127409405/afce2590-cae6-4f33-a6d6-824b023c82ba)
 
 
 
