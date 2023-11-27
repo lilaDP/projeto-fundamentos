@@ -242,6 +242,9 @@ A tabela a seguir contém a relação com os Requisitos Não Funcionais identifi
 
 # Diagrama de Sequências
 
+![image](https://github.com/lilaDP/projeto-fundamentos/assets/127409405/3d8e7f1b-00c0-40dd-b631-daf86e12e2e6)
+
+
 ![Imagem do WhatsApp de 2023-11-13 à(s) 08 53 37_2a48cc7c](https://github.com/lilaDP/projeto-fundamentos/assets/127409405/fe90c472-8ccc-400d-900c-1e55d768047d)
 
 
