@@ -260,7 +260,8 @@ A tabela a seguir contém a relação com os Requisitos Não Funcionais identifi
 
 # Diagrama de Atividades
 
-![image](https://github.com/lilaDP/projeto-fundamentos/assets/127409405/290e490d-2d56-4492-98d0-f707b22a6147)
+![image](https://github.com/lilaDP/projeto-fundamentos/assets/127409405/f5e87ff1-d7f2-4aa1-97b6-f5589f89166c)
+
 
 
 
